@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
 dependencies = [
+    "d2l>=0.17.0",
     "packaging>=25.0",
     "pandas>=2.3.2",
     "pandas-stubs==2.3.2.250827",
